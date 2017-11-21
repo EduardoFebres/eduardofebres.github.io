@@ -13,28 +13,26 @@
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
-                            <hr class="star-primary">                            
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <hr class="star-primary">
+                        </br>
+                             <p class="left">{{ post.description }}</p>                          
+                            </br>
                             <img src="img/portfolio/cont/{{ post.cont }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <img src="img/portfolio/cont/{{ post.cont2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <img src="img/portfolio/cont/{{ post.cont2 }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">                                
                                 <li>Im&aacutegenes:
-                                    <strong><a href="http://startbootstrap.com">{{ post.imagenes }}</a>
+                                    <strong>{{ post.imagenes }}</a>
                                     </strong>
                                 </li>
                                 <li>T&iacutetulo del ensayo:
-                                    <strong><a href="http://startbootstrap.com">{{ post.tituloensayo }}</a>
+                                    <strong>{{ post.tituloensayo }}</a>
                                     </strong>
                                 </li>
                                 <li>Autor del ensayo:
-                                    <strong><a href="http://startbootstrap.com">{{ post.autorensayo }}</a>
+                                    <strong>{{ post.autorensayo }}</a>
                                     </strong>
                                 </li>
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Volver</button>
-                            <button type="button" class="btn btn-default">Hojear</button>
                         </div>
                     </div>
                 </div>

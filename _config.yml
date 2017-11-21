@@ -32,8 +32,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Alerta que salpica
-  location: Parque Central, Caracas, Venezuela
+  copyright: Freelancer
+  location:
   social: Síguenos
   credits: Crédito
 
@@ -43,20 +43,16 @@ social:
     url: http://twitter.com/alertaqsalpica
   - title: facebook
     url: http://facebook.com/alertaqsalpicalibro
-  - title: stack-overflow
-    url: 
-  - title: bitbucket
-    url: 
-  - title: github
+  - title: instagram
     url: 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Parque Central
-  - line: Caracas, Venezuela
+  - line:
+  - line:
 
 # Credits content
-credits: 'Creado y alojado en GitHub y basado en el tema Freelancer <a href="http://github.com</a>.'
+credits: 'AqS fue concebido por la cooperativa Ej&eacutercito Comunicacional de Liberaci&oacuten (Venezuela), Andr&eacutes Sap&iacuten (Ecuador), el Colectivo Dexpierte (Colombia) y Marialina Maviz&uacute (Costa Rica). Fue desarrollado por el E.C.L. y publicado por la editorial Ocho Libros (Chile).'
 
 # Build settings
 markdown: kramdown

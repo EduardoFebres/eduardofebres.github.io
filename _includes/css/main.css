@@ -16,6 +16,15 @@ p.small {
     font-size: 16px;
 }
 
+p.small-left {
+    font-size: 16px;
+    text-align: left;
+}
+
+p.left {
+    text-align: left;
+}
+
 a,
 a:hover,
 a:focus,
@@ -48,13 +57,18 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f005";
+    content: "\29E0";
     display: inline-block;
     position: relative;
     top: -.8em;
     padding: 0 .25em;
     font-family: FontAwesome;
     font-size: 2em;
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
 }
 
 hr.star-light {
