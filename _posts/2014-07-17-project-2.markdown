@@ -5,7 +5,8 @@ date: 2014-07-17
 img: agitar.png
 title: "Agitar"
 alt: image-alt
-cont: agitar1.jpg
+cont: agitar1.gif
+demo: demoAgitar.pdf
 project-date: April 2014
 imagenes: 129
 autorensayo: Pablo Riesco "Kalaka"

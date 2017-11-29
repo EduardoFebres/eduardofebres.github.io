@@ -5,7 +5,8 @@ date: 2014-07-14
 img: recordar.png
 title: "Recordar"
 alt: image-alt
-cont: recordar1.jpg
+cont: recordar1.gif
+demo: demoRecordar.pdf
 project-date: April 2014
 imagenes: 108
 autorensayo: Colectivo Dexpierte

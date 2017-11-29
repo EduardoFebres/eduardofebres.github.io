@@ -5,7 +5,8 @@ date: 2014-07-18
 img: distraer.png
 title: "Distraer"
 alt: image-alt
-cont: distraer1.jpg
+cont: distraer1.gif
+demo: demoDistraer.pdf
 project-date: April 2014
 imagenes: 131
 autorensayo: Marcelo Rojas

@@ -5,7 +5,8 @@ date: 2014-07-13
 img: vender.png
 title: "Vender"
 alt: image-alt
-cont: vender1.jpg
+cont: vender1.gif
+demo: demoVender.pdf
 project-date: April 2014
 imagenes: 24
 autorensayo: Ejército Comunicacional de Liberaci&oacuten

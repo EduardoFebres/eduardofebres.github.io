@@ -5,7 +5,8 @@ date: 2014-07-16
 img: territorializar.png
 title: "Territorializar"
 alt: image-alt
-cont: territorializar1.jpg
+cont: territorializar1.gif
+demo: demoTerritorializar.pdf
 project-date: April 2014
 imagenes: 107
 autorensayo: Marialina Villegas "Mavizu"

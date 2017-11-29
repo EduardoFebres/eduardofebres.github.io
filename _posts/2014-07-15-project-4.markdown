@@ -3,7 +3,7 @@ layout: default
 modal-id: 4
 date: 2014-07-15
 img: trastocar.png
-cont: trastocar1.jpg
+cont: trastocar1.gif
 title: "Trastocar"
 alt: image-alt
 imagenes: 111
