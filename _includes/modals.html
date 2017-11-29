@@ -14,11 +14,7 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                        </br>
-                             <p class="left">{{ post.description }}</p>                          
-                            </br>
-                            <img src="img/portfolio/cont/{{ post.cont }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <ul class="list-inline item-details">                                
+                                                <ul class="list-inline item-details">                                
                                 <li><small>im&aacutegenes del cap&iacutetulo:</small>
                                     <strong>{{ post.imagenes }}</a></strong>
                                 </li>
@@ -27,8 +23,13 @@
                                     </strong>
                                 </li>
                             </ul>
+                                                      
+                            
+                            <img src="img/portfolio/cont/{{ post.cont }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                             <p class="left">{{ post.description }}</p>
+                            </br>
                             <a href="{{ post.demo }}"><button type="button" class="btn btn-default">Hojear cap&iacutetulo</button></a>
-                            <a href="tienda"><button type="button" class="btn btn-default"></i> Comprar libro</button></a>
+                            <a href="tienda/#!/Alerta-que-salpica/p/96509116/category=0"><button type="button" class="btn btn-default"></i> Comprar libro</button></a>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Ver m&aacutes cap&iacutetulos</button>
                         </div>
                     </div>
