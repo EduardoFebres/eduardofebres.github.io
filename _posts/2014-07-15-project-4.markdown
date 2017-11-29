@@ -8,7 +8,7 @@ demo: demoTrastocar.pdf
 title: "Trastocar"
 alt: image-alt
 imagenes: 111
-autorensayo: Ana Longoni
-tituloensayo: Como un cortocircuito en la cultura comercial
+autorensayo: Ana&nbspLongoni
+tituloensayo: Como&nbspun&nbspcortocircuito&nbspen&nbspla&nbspcultura&nbspcomercial
 description: Trastornar, perturbar, revolver. Doblar la línea programada. Intervenir el código. Pintar con las formas de la calle. Dibujar con la cultura de masas. Desnaturalizar las órdenes que llegan en forma de signo e imagen, y volverlas en contra del emisor.
 ---
