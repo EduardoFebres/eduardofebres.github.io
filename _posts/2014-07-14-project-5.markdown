@@ -9,7 +9,7 @@ cont: recordar1.gif
 demo: demoRecordar.pdf
 project-date: April 2014
 imagenes: 108
-autorensayo: Colectivo Dexpierte
-tituloensayo: Arte memoria (conmemoraci&oacuten, denuncia, reconstrucci&oacuten)
+autorensayo: Colectivo&nbspDexpierte
+tituloensayo: Arte&nbspmemoria (conmemoraci&oacuten,&nbspdenuncia,&nbspreconstrucci&oacuten)
 description: Hacer presente a alguien o algo. Rescatar ruinas de la cultura. No olvidar a las víctimas y victimarios de los Estados, imperios y corporaciones en América Latina. Volver a pasar por el corazón nuestras victorias y resistencias contra la colonización.
 ---

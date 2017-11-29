@@ -9,7 +9,7 @@ cont: vender1.gif
 demo: demoVender.pdf
 project-date: April 2014
 imagenes: 24
-autorensayo: Ejército Comunicacional de Liberaci&oacuten
-tituloensayo: ¿D&oacutende est&aacute  la rebeld&iacutea?
+autorensayo: Ejército&nbspComunicacional de&nbspLiberaci&oacuten
+tituloensayo: ¿D&oacutende&nbspest&aacute&nbspla&nbsprebeld&iacutea?
 description: Instrumentalizar. Subordinar. Intercambiar por dinero. Hacer por encargo. Exponer u ofrecer al público para quien quiera comprar. Convencer de la idea de otrx. Sacrificar al interés algo que no tiene valor material.
 ---

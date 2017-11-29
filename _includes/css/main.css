@@ -283,6 +283,11 @@ section.success {
     background: #fff;
 }
 
+.btn-post {
+    margin-top: 15px;
+    color: #{{ site.color.primary }};
+}
+
 .floating-label-form-group {
     position: relative;
     margin-bottom: 0;

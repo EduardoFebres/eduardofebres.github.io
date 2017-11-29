@@ -9,7 +9,7 @@ cont: territorializar1.gif
 demo: demoTerritorializar.pdf
 project-date: April 2014
 imagenes: 107
-autorensayo: Marialina Villegas "Mavizu"
-tituloensayo: Meando territorio
+autorensayo: Marialina&nbspVillegas&nbsp"Mavizu"
+tituloensayo: Meando&nbspterritorio
 description: Adscribir una actuación, una identidad, una colectividad, a un territorio determinado. (In)definir linderos. Marcar. Figurar. Ocupar espacios. Rotular todos los lugares posibles, lo más grande, lo más alto, lo más lejos posible
 ---

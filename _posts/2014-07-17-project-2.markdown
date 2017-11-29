@@ -9,7 +9,7 @@ cont: agitar1.gif
 demo: demoAgitar.pdf
 project-date: April 2014
 imagenes: 129
-autorensayo: Pablo Riesco "Kalaka"
-tituloensayo: Ag&iacutetese antes de usar
+autorensayo: Pablo&nbspRiesco&nbsp"Kalaka"
+tituloensayo: Ag&iacutetese&nbspantes&nbspde&nbspusar
 description: Provocar la inquietud política o social. Denunciar una injusticia, reivindicar una lucha, acusar a un agresor, acompañar una movilización, reclamar un derecho. Exigir, proclamar, propinar castigos simbólicos.
 ---

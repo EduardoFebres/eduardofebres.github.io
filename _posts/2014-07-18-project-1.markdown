@@ -9,7 +9,7 @@ cont: distraer1.gif
 demo: demoDistraer.pdf
 project-date: April 2014
 imagenes: 131
-autorensayo: Marcelo Rojas
-tituloensayo: La ciudad esp&aacutesmica
+autorensayo: Marcelo&nbspRojas
+tituloensayo: La&nbspciudad&nbspesp&aacutesmica
 description: Apartar la atención de alguien de lo que estaba pendiente o de lo que debía estar pendiente. Crear. Exponer la expresión artística en el espacio público. Entretener. Embellecer. Divertir. Emocionar. Conmover.
 ---
