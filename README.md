@@ -1,4 +1,2 @@
-Promotional web site for the book Alerta que salpica >> alertaquesalpica.me
+Teaching portafolio from [Freelancer Jekyll theme](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
 
-Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
-=========================
